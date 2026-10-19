@@ -86,8 +86,8 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/Haydan90/ML1.git
-   cd ML1
+   git clone https://github.com/Haydan90/ML1_rental-price-prediction.git
+   cd ML1_rental-price-prediction
    ```
 
 2. Установить необходимые библиотеки:
